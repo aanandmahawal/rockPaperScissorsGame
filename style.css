@@ -1,0 +1,53 @@
+*{
+    margin : 0px;
+    padding: 0px;
+}
+h1{
+    color: rgb(192, 222, 162);
+}
+
+#root{
+
+    text-align: center;
+    height: 80vh;
+    width: 70vw;
+    background-color: blueviolet;
+    margin: 4vh 15vw ;
+    padding: 5px;
+    border: 2px solid yellowgreen;
+    border-radius: 12px;
+}
+
+.players{
+    height:16vh;
+    margin : 15px;
+}
+
+.choice{
+    height : 20vh;
+    margin: 1vw;
+}
+
+.choice:hover{
+    height:21vh;
+}
+#scoreline{
+
+    font-size: 30px;
+    margin: 10px;
+    color: rgb(123, 222, 24);
+    font-family: 'Courier New', Courier, monospace;
+}
+#opted{
+    color: rgb(150, 247, 120);
+}
+#result{
+    color: darkkhaki;
+}
+
+button{
+    font-size: 20px;
+    width: 80px;
+    padding: 5px;
+    margin: 10px;
+}
